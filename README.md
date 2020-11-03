@@ -7,4 +7,4 @@
 - 😄 Pronouns: **He | Him**
 - ⚡ Fun fact: I love **coffee**. You can [buy me coffee](https://www.buymeacoff.ee/nilesh2000) here.
 
-[![HitCount](http://hits.dwyl.com/Nilesh2000/Nilesh2000.svg)](http://hits.dwyl.com/Nilesh2000/Nilesh2000)
+<p align="center"><a href="http://hits.dwyl.com/Nilesh2000/Nilesh2000"><img src="http://hits.dwyl.com/Nilesh2000/Nilesh2000.svg" alt="HitCount"></a></p>
