@@ -8,9 +8,11 @@
 - ⚡ Fun fact: I love **coffee**. You can [buy me coffee](https://www.buymeacoff.ee/nilesh2000) here.
 - :books: My favourite book is **The Da Vinci Code** By **Dan Brown.**
 
-### Languages, Databases, Tools and Frameworks I Use
+### My Programming Proficiency
 
-<img src="img/c++.png" width="35px">&nbsp;&nbsp; <img src="img/python.png" width="50px">&nbsp;&nbsp; <img src="img/html.png" width="35px">&nbsp;&nbsp; <img src="img/css.png" width="37px">&nbsp;&nbsp; <img src="img/js.png" width="35px">&nbsp;&nbsp; <img src="img/php.png" width="55px">&nbsp;&nbsp; <img src="img/nodejs.png" width="50px"> &nbsp;&nbsp; <img src="img/bootstrap.png" width="35px">&nbsp;&nbsp; <img src="img/mysql.png" width="65px">&nbsp;&nbsp; <img src="img/mongodb.png" width="20px">&nbsp;&nbsp;  <img src="img/git.png" width="35px">&nbsp;&nbsp; 
+| Languages | Databases  | Frameworks | Tools |
+| --------- | ---------- | ---------- | ----- |
+|<img src="img/c++.png" width="35px">&nbsp;&nbsp; <img src="img/python.png" width="50px">&nbsp;&nbsp; <img src="img/html.png" width="35px">&nbsp;&nbsp; <img src="img/css.png" width="37px">&nbsp;&nbsp; <img src="img/js.png" width="35px">&nbsp;&nbsp; <img src="img/php.png" width="55px">&nbsp;&nbsp; <img src="img/nodejs.png" width="50px"> | <img src="img/mysql.png" width="65px">&nbsp;&nbsp; <img src="img/mongodb.png" width="20px">&nbsp;&nbsp; | <img src="img/bootstrap.png" width="35px">&nbsp;&nbsp; <img src="img/jquery.png" width="35px">| <img src="img/git.png" width="35px">
 
 <br><hr>
 
