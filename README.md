@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hey there 👋
 
 - 🔭 I’m currently working on implementing a **layer-wise algorithm to solve the 3 * 3 * 3 Rubik's Cube.**
 - 🌱 I’m currently learning **NodeJS, ReactJS and Redux.**
