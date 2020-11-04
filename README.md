@@ -12,9 +12,9 @@
 
 | Languages | Databases  | Frameworks | Tools |
 | --------- | ---------- | ---------- | ----- |
-|<img src="img/c++.png" width="35px">&nbsp;&nbsp; <img src="img/python.png" width="50px">&nbsp;&nbsp; <img src="img/html.png" width="35px">&nbsp;&nbsp; <img src="img/css.png" width="37px">&nbsp;&nbsp; <img src="img/js.png" width="35px">&nbsp;&nbsp; <img src="img/php.png" width="55px">&nbsp;&nbsp; <img src="img/nodejs.png" width="50px"> | <img src="img/mysql.png" width="65px">&nbsp;&nbsp; <img src="img/mongodb.png" width="20px">&nbsp;&nbsp; | <img src="img/bootstrap.png" width="35px">&nbsp;&nbsp; <img src="img/jquery.png" width="35px">| <img src="img/git.png" width="35px">
+|<img src="img/c.png" width="44px">&nbsp;&nbsp; <img src="img/c++.png" width="35px">&nbsp;&nbsp; <img src="img/python.png" width="50px">&nbsp;&nbsp; <img src="img/html.png" width="35px">&nbsp;&nbsp; <img src="img/css.png" width="37px">&nbsp;&nbsp; <img src="img/js.png" width="35px">&nbsp;&nbsp; <img src="img/php.png" width="55px">&nbsp;&nbsp; <img src="img/nodejs.png" width="50px"> | <img src="img/mysql.png" width="65px">&nbsp;&nbsp; <img src="img/mongodb.png" width="20px">&nbsp;&nbsp; | <img src="img/bootstrap.png" width="35px">&nbsp;&nbsp; <img src="img/jquery.png" width="35px">| <img src="img/git.png" width="35px">
 
-<br><hr>
+<hr>
 
 <p align="center"><a href="http://hits.dwyl.com/Nilesh2000/Nilesh2000"><img src="http://hits.dwyl.com/Nilesh2000/Nilesh2000.svg" alt="HitCount"></a></p>
 <p align="center">
