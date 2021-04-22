@@ -7,8 +7,6 @@
 - 😄 Pronouns: **He | Him**
 - ⚡ Fun fact: I prefer **tabs** over **spaces.**
 - :books: My favourite book is **The Da Vinci Code** By **Dan Brown.**
-- 
-<hr>
 
 <p align="center">
   <a href="mailto:nileshlund@gmail.com"><img src="img/mail.png" width="35px" alt="Nilesh D - Email" /></a>
