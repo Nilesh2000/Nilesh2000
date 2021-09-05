@@ -9,16 +9,7 @@
 - :books: My favourite book is **The Da Vinci Code** By **Dan Brown.**
 
 ![image](https://github-readme-stats.vercel.app/api?username=Nilesh2000)
+
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh2000)
+
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=Nilesh2000)
-
-<hr>
-
-<p align="center">
-  <a href="mailto:nileshlund@gmail.com"><img src="img/mail.png" width="35px" alt="Nilesh D - Email" /></a>
-  &nbsp;&nbsp;  
-  <a href="https://www.linkedin.com/in/nilesh2000/"><img src="img/linkedin.png" width="35px" alt="Nilesh D - Linkedin" /></a>
-  &nbsp;&nbsp;  
-  <a href="https://www.github.com/Nilesh2000"><img src="img/github.png" width="35px" alt="Nilesh D - GitHub" /></a>
-  &nbsp;&nbsp;  
-</p>
